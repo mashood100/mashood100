@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mashood100
 - 👀 I’m interested in code and development...
-- 🌱 I’m currently learning flutter ..
+- 🌱 I’m currently learning Data Science ..
 - 📫 How to reach me ... email me on mashoodhussain100@gmail.com
 - 👷 Currently pursuing Software Engineering (2020-2024) from Karachi University Ubit.
 <!---
