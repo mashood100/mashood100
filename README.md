@@ -1,16 +1,22 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Mashood. I build Mobile Apps!" src="./assets/gh-readme-header.png" /></a></p>
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+coding is my favorite game 
 
 **About me**
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+- 👋 Hi, I’m @mashood100
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
+- 👀 I’m interested in code and development...
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- 🌱 I’m currently learning Blockchain..
+
+- 📫 How to reach me ... email me on mashoodhussain100@gmail.com
+
+- 💼 Mobile Engineer at [Muftar]([http://razorpay.com/](https://muftar.com/))
+
+- ❤️ I love writing Dart, and building fun experiments on type-level
 
 - 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
 
@@ -24,15 +30,9 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-#### Top Repositories
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-</a>
+
 
 <br />
 <br />
