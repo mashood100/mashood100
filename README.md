@@ -10,7 +10,7 @@
 
 - 📫 How to reach me ... email me on mashoodhussain100@gmail.com
 
-- 💼 Mobile Engineer at [Muftar]([http://razorpay.com/](https://muftar.com/))
+- 💼 Mobile Engineer at @[Muftar Corps]([http://razorpay.com/](https://muftar.com/))
 
 - ❤️ I love writing Dart, and building fun experiments on type-level
 
