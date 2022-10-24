@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mashood100" alt="mashood100" /></a> </p>
 <h3 align="left">About me:</h3>
-- 🔭 I’m currently working on revolutionizing supply chain industry at @Muftar_Corp
+- 🔭 I’m currently working  at @Muftar_Corp to revolutionized the supply chain industry
 
 - 🌱 I’m currently learning **Web 3.0 and Blockcahin**
 
