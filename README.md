@@ -9,9 +9,11 @@
 
 - 🌱 I’m currently learning **Web 3.0 and Blockcahin**
 
-- 🤝 I’m looking for help with [dart_exted](https://github.com/mashood100/dart_extend)
+- 🧑‍💻 Hacktobefeast-2022 Contributer and maintainer**
 
-- 💬 Ask me about **Flutter,Dart Firebase**
+- 🤝 I’m looking for contributers for my open source library [dart_exted](https://github.com/mashood100/dart_extend)
+
+- 💬 Ask me about **Flutter,Dart, Firebase, open source, Mobilr development**
 
 - 📫 How to reach me **mashoodhussain100@gmail.com**
 <img align="center" alt="coding" width="350" src="https://media1.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif">
@@ -28,4 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mashood100&show_icons=true&locale=en" alt="mashood100" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mashood100&" alt="mashood100" /></p>
+<p><img align=" center" src="https://github-readme-streak-stats.herokuapp.com/?user=mashood100&" alt="mashood100" /></p>
