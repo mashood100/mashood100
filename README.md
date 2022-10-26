@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Web 3.0 and Blockcahin**
 
-- 🚀 💻 Hacktobefeast-2022 Contributer and maintainer**
+- 🚀 Hacktobefeast-2022 Contributer and maintainer**
 
 - 🤝 I’m looking for contributers for my Open Source library [dart_exted](https://github.com/mashood100/dart_extend)
 
