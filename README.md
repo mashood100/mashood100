@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mashood100&label=Profile%20views&color=0e75b6&style=flat" alt="mashood100" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mashood100" alt="mashood100" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mashood100" alt="mashood100" /></a>
+
+</p>
 <h3 align="left">About me:</h3>
 - 🔭 I’m currently working  at @Muftar_Corp to revolutionized the supply chain industry
 
