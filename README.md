@@ -11,14 +11,18 @@
 
 - 🌱 I’m currently learning **Web 3.0 and Blockcahin**
 
-- 🚀 Hacktobefeast-2022 Contributer and maintainer**
+- 🚀 Hacktobefeast-2022 Contributer and maintainer
 
 - 🤝 I’m looking for contributers for my Open Source library [dart_exted](https://github.com/mashood100/dart_extend)
 
 - 💬 Ask me about **Flutter,Dart, Firebase, Open Source, Mobile Development**
 
 - 📫 How to reach me **mashoodhussain100@gmail.com**
-<img align="center" alt="coding" width="350" src="https://media1.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif">
+
+<h3 align="center"> Hacktobefeast-2022 Badges 🥇</h3>
+
+[![@mashood100's Holopin board](https://holopin.me/mashood100)](https://holopin.io/@mashood100)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mashood-hussain-3805b5196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mashood-hussain-3805b5196" height="30" width="40" /></a>
