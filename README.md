@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mashood Hussain</h1>
+<h1 align="center">Hi 👋, I'm Mashood Hussain </h1>
 <h3 align="center">A Passionate Full Stack Mobile App Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mashood100&label=Profile%20views&color=0e75b6&style=flat" alt="mashood100" /> </p>
