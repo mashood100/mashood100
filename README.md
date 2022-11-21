@@ -7,9 +7,10 @@
 
 </p>
 <h3 align="left">About me:</h3>
-- 🔭 I’m currently working  at @Muftar_Corp to revolutionized the supply chain industry
 
-- 🌱 I’m currently learning **Web 3.0 and Blockcahin**
+- 🏆  In top 3% on StackOverflow
+
+- 🌱 Currently learning **Web 3.0 and Blockcahin**
 
 - 🚀 Hacktobefeast-2022 Contributer and maintainer
 
