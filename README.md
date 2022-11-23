@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mashood100" alt="mashood100" /></a>
 
 </p>
-<h3 align="left">About me:</h3>
+<h3 align="left">About me: </h3>
 
 - 🏆  In top 3% on StackOverflow
 
