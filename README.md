@@ -14,7 +14,7 @@
 
 - 🚀 Hacktobefeast-2022 Contributer and maintainer
 
-- 🤝 I’m looking for contributers for my Open Source library [dart_exted](https://github.com/mashood100/dart_extend)
+- 🤝 I’m looking for contributers for my Open Source library [dart_extend](https://github.com/mashood100/dart_extend)
 
 - 💬 Ask me about **Flutter,Dart, Firebase, Open Source, Mobile Development**
 
