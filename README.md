@@ -10,9 +10,7 @@
 
 - 🏆  In top Contributer on StackOverflow : [Profile](https://stackoverflow.com/users/12777999/mashood-h?tab=profile)
 
-- 🌱 Currently learning **Web 3.0 and Blockcahin**
-
-- 🚀 Hacktobefeast-2022 Contributer and maintainer [View](https://www.holopin.io/@mashood100#)
+- 🚀 Hacktobefeast-2022 & 2023 Contributer and maintainer [View](https://www.holopin.io/@mashood100#)
 
 - 🤝 I’m looking for contributers for my Open Source library [dart_extend](https://github.com/mashood100/dart_extend)
 
